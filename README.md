@@ -38,4 +38,4 @@ Sonuçlar
 
 Yapılan A/B test sonucunda, "average bidding" ve "maximum bidding" yöntemleri arasında Purchase ortalamaları açısından anlamlı bir fark bulunmadığı sonucuna ulaşıldı. Müşteriye, daha fazla veri toplayarak ve testi daha uzun süre devam ettirerek daha kesin sonuçlar elde etmesi önerildi.
 
-Bu proje, Python programlama dili kullanılarak veri analizi adımlarının ayrıntılı bir şekilde gösterildiği bir örnektir. Projenin tamamı "ab_test_analysis.py" dosyasında yer almaktadır. Detaylı bilgi için lütfen kodu inceleyin.
+Bu proje, Python programlama dili kullanılarak veri analizi adımlarının ayrıntılı bir şekilde gösterildiği bir örnektir. Projenin tamamı "AB_TESTINGwrk.py" dosyasında yer almaktadır. Detaylı bilgi için lütfen kodu inceleyin.
