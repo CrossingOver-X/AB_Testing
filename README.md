@@ -1,14 +1,20 @@
 A/B Testi ile Bidding Yöntemlerinin Dönüşüm Karşılaştırması
+
 Bu proje, bir müşterinin web sitesindeki teklif verme yöntemlerini karşılaştırmak amacıyla gerçekleştirdiği A/B testinin sonuçlarını analiz ediyor.
 
 İş Problemi
+
 Bombabomba.com, yeni bir teklif verme yöntemi olan "average bidding"i mevcut "maximum bidding" yöntemiyle karşılaştırmak istiyor. Bu iki yöntem arasındaki dönüşüm oranlarını karşılaştırmak ve hangi yöntemin daha iyi performans gösterdiğini belirlemek amaçlanıyor.
 
 Veri Seti
+
 Proje, "ab_testing.xlsx" adlı Excel dosyasından elde edilen verileri içermektedir. Veri seti kontrol ve test gruplarına ayrılmıştır.
+
 
 Analiz Adımları
 Veri Seti Hazırlama ve Analiz Etme:
+
+
 
 Kontrol ve test grupları ayrı ayrı analiz edilir.
 Veri setleri birleştirilir ve "Bidding" sütunu eklenir.
