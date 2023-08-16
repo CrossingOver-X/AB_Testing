@@ -1,4 +1,4 @@
-##A/B Testi ile Bidding Yöntemlerinin Dönüşüm Karşılaştırması
+##A/B Testi ile Bidding Yöntemlerinin Dönüşüm Karşılaştırması##
 Bu proje, bir müşterinin web sitesindeki teklif verme yöntemlerini karşılaştırmak amacıyla gerçekleştirdiği A/B testinin sonuçlarını analiz ediyor.
 
 #İş Problemi
