@@ -180,5 +180,6 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 
 # Adım 2: Elde ettiğiniz test sonuçlarına göre müşteriye tavsiyede bulununuz.
 
-#Sonuçlara göre Average Bidding ile MAximum Bidding arasında Purchase ortalaması açısından anlamlı bir fark yoktur.
-#Verilerin yetersizliği nedeiyle bir süre daha uygulamanın denenmesi önerilebilir.
+#Yapılan A/B testinde "average bidding" ve "maximum bidding" arasında Purchase (kazanç) 
+#ortalamaları açısından anlamlı bir fark olmadığı sonucuna varılıyor. Bu nedenle, müşteriye mevcut durumu 
+#daha fazla değerlendirmesi ve belki de daha uzun bir süre boyunca test yapması önerilir.
